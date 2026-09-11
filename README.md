@@ -1,7 +1,7 @@
 # Atmos — Live Weather Dashboard
 
-#Live link
-https://kumar11rudra.github.io/Atmos-Live-Weather-Dashboard/
+# Live Link
+ https://kumar11rudra.github.io/Atmos-Live-Weather-Dashboard/
 
 Created by: Suryansh
 
