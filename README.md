@@ -1,5 +1,7 @@
 # Atmos — Live Weather Dashboard
 
+Created by: Suryansh
+
 Atmos is a modern weather web application built with HTML, CSS, and JavaScript. It fetches live weather data from the Open-Meteo API and presents it in a clean, atmospheric dashboard with a dynamic sky background, hourly forecast visualization, and daily weather summary.
 
 ## Project Overview
